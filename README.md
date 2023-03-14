@@ -12,5 +12,5 @@ It is a simple application for inputting keyboard keys every certain amount of t
 ![Special key](Screenshots/special.png)
 ![Inputing special key](Screenshots/start.PNG)
 ![Normal key](Screenshots/normal.PNG)
-![Inputing normal key](Screenshots/start2.PNG)
+![Inputing normal key](Screenshots/startTwo.PNG)
 ![A certain key that was inputted](Screenshots/keys.PNG)
