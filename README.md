@@ -9,7 +9,7 @@ It is a simple application for inputting keyboard keys every certain amount of t
 
 ## Screenshots
 ![Start window](Screenshots/main.PNG)
-![Special key](Screenshots/special.PNG)
+![Special key](Screenshots/special.png)
 ![Inputing special key](Screenshots/start.PNG)
 ![Normal key](Screenshots/normal.PNG)
 ![Inputing normal key](Screenshots/start2.PNG)
